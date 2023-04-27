@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\CustomGenericCollection\bin\Debug\net6.0\CustomGenericCollection.exe
+C:\Users\LENOVO\Desktop\CustomGenericCollection\bin\Debug\net6.0\CustomGenericCollection.deps.json
+C:\Users\LENOVO\Desktop\CustomGenericCollection\bin\Debug\net6.0\CustomGenericCollection.runtimeconfig.json
+C:\Users\LENOVO\Desktop\CustomGenericCollection\bin\Debug\net6.0\CustomGenericCollection.dll
+C:\Users\LENOVO\Desktop\CustomGenericCollection\bin\Debug\net6.0\CustomGenericCollection.pdb
+C:\Users\LENOVO\Desktop\CustomGenericCollection\obj\Debug\net6.0\CustomGenericCollection.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\CustomGenericCollection\obj\Debug\net6.0\CustomGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\CustomGenericCollection\obj\Debug\net6.0\CustomGenericCollection.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\CustomGenericCollection\obj\Debug\net6.0\CustomGenericCollection.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\CustomGenericCollection\obj\Debug\net6.0\CustomGenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\CustomGenericCollection\obj\Debug\net6.0\CustomGenericCollection.dll
+C:\Users\LENOVO\Desktop\CustomGenericCollection\obj\Debug\net6.0\refint\CustomGenericCollection.dll
+C:\Users\LENOVO\Desktop\CustomGenericCollection\obj\Debug\net6.0\CustomGenericCollection.pdb
+C:\Users\LENOVO\Desktop\CustomGenericCollection\obj\Debug\net6.0\CustomGenericCollection.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\CustomGenericCollection\obj\Debug\net6.0\ref\CustomGenericCollection.dll
